@@ -67,7 +67,7 @@ def travel_assistant(user_query: str):
 # ------- Streamlit UI --------
 
 st.set_page_config(page_title="Travel Assistant", layout="centered")
-st.title("✈️ Travel Assistant")
+st.title("Travel Assistant ✈️")
 st.subheader("Plan your journeys with real-time travel info...")
 
 # Initializing chat history
